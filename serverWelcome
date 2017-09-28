@@ -1,0 +1,17 @@
+"=============================================================================\n"+
+"                        Welcome to the Auction Server!\n"+
+"                                    *****\n"+
+"\n"+
+"procedure:\n"+
+"	01) Type your name.\n"+
+"	02)\n"+
+"            * Enter the Symbol of the Stock Item.\n"+
+"            * Enter your Bid amount.\n"+
+"	03) Above step 02) will repeatedly continue until you type quit command.\n"+
+"	04) To quit from the server at any point, type quit command\n"+
+"\n"+
+"commands:\n"+
+"	quit - to quit from the server.\n"+
+"\n"+
+"                   developed by group 14 (e14049 / e14305)\n"+
+"============================================================================="
